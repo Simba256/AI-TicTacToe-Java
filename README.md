@@ -69,4 +69,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 Enjoy playing Tic Tac Toe with customizable AI on your preferred grid size and strategy!
-```
